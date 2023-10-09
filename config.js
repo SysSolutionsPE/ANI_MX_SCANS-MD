@@ -14,30 +14,30 @@ const __dirname = global.__dirname(import.meta.url)
 
 
 global.owner = [
-   ['5215517489568','𝓢𝓾𝓹𝓻𝓮𝓶𝓮 𝓔𝓷𝓭𝔂𝓶𝓲𝓸𝓷 - Creador 👁️', false],
-    ['5215533827255', '𝓡𝓮𝔂 𝓔𝓷𝓭𝔂𝓶𝓲𝓸𝓷 - Creador 👑', true]
+   ['51902679067','丂ys丂☢ɭutﻨ☢∩s - Creador 👁️', false],
+    ['51902679067', '丂ys丂☢ɭutﻨ☢∩s - Creador 👑', true]
 ] // Cambia los numeros que quieras
 
 /**********GLOBAL INFO*****************/
-global.packname = '(☞ﾟ∀ﾟ)☞'
+global.packname = '(☞ﾟ∀ﾟ)☞丂ys丂☢ɭutﻨ☢∩s'
 global.amsicon = `🌎`
-global.author = '𝓡𝓮𝔂 𝓔𝓷𝓭𝔂𝓶𝓲𝓸𝓷'
-global.wm = '🌎ANI MX SCANS🌏'
-global.igfg = '★🌎ANI MX SCANS🌏★'
+global.author = '丂ys丂☢ɭutﻨ☢∩s'
+global.wm = '🌎丂ys丂☢ɭutﻨ☢∩s🌏'
+global.igfg = '★🌎丂ys丂☢ɭutﻨ☢∩s🌏★'
 global.paypal = `https://www.paypal.me/AMxScan`
 global.urlgofc = 'https://www.facebook.com/groups/otakustogether'
-global.otkstgthr = 'ㄖㄒ卂Ҡ凵丂 ㄒㄖᎶ乇ㄒ卄乇尺'
-global.namerepre = `「 Traducciones de Manga 」`
-global.animxscans = [['14708300538', 'Bot principal - ANI MX SCANS', true]]
+global.otkstgthr = '丂ys丂☢ɭutﻨ☢∩s'
+global.namerepre = `「 丂ys丂☢ɭutﻨ☢∩s 」`
+global.animxscans = [['51902679067', 'Bot principal - 丂ys丂☢ɭutﻨ☢∩s', true]]
 global.me = animxscans
 global.hp_animxscans = 'https://www.facebook.com/ANIMxSCANS' 
 global.hp_otkstogthr = 'https://www.facebook.com/OtakusTogether' 
-global.md = 'https://github.com/ReyEndymion/ANI_MX_SCANS-MD'
-global.animxscansmd = 'https://github.com/ReyEndymion/ANI_MX_SCANS-MD'
-global.suppbot = 'https://chat.whatsapp.com/DpcgpFF2RO16wFG9SIZemG'
-global.gofwhabot = 'https://chat.whatsapp.com/DpcgpFF2RO16wFG9SlZemG'
+global.md = 'https://github.com/SysSolutionsPE/ANI_MX_SCANS-MD'
+global.animxscansmd = 'https://github.com/SysSolutionsPE/ANI_MX_SCANS-MD'
+global.suppbot = 'https://whatsapp.com/channel/0029Va6cqdDHQbS1VZH2VS1e'
+global.gofwhabot = 'https://whatsapp.com/channel/0029Va6cqdDHQbS1VZH2VS1e'
 global.gt = '(☞ﾟ∀ﾟ)☞'
-global.botcomedia = '𝓑𝓸𝓽 𝓒𝓸𝓶𝓮𝓭𝓲𝓪 👺👍'
+global.botcomedia = '丂ys丂☢ɭutﻨ☢∩s 👺👍'
 global.botcomediamd = 'https://github.com/ReyEndymion/Bot-Comedia-MD'
 
 /***************GLOBAL APIS****************** */
