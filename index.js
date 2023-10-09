@@ -1,4 +1,5 @@
 console.log('✅ㅤIniciando...')
+require("http").createServer((_, res) => res.end("Uptime!")).listen(8080)
 import { join, dirname } from 'path'
 import { createRequire } from "module";
 import { fileURLToPath } from 'url'
